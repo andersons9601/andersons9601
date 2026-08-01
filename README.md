@@ -1,22 +1,10 @@
-## Hi there 👋
-<a href="https://github.com/andersons9601/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=andersons9601&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andersons9601&layout=compact&show_icons=true&theme=radical&langs_count=8&card_width=320" />
-</a>
+### Olá! 👋 Sou o Anderson.
 
-##
+Desenvolvedor de Software e Analista de Sistemas, unindo o desenvolvimento de software com uma sólida bagagem de mais de 10 anos em automação e otimização de processos industriais. 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/anderson-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.behance.net/andersonsilva9601" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
-</div>
+🚀 **Foco Atual:** Desenvolvimento Full Stack, Arquitetura de Sistemas (POO) e soluções para gestão/automação corporativa.
+💼 **Portfólio:** [Em construção - Link em breve]
+📫 **Contato:** andersonsilva9601@gmail.com | [LinkedIn](https://www.linkedin.com/in/anderson-silva/)
+
+**Stacks e Ferramentas:**
+`Java` • `Python` • `JavaScript` • `React` • `MySQL` • `Git` • `Linux` • `Odoo`
