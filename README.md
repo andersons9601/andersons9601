@@ -5,4 +5,4 @@ Desenvolvedor com mais de 10 anos de experiência na indústria metalúrgica (pr
 **Contato:** andersonsilva9601@gmail.com | [LinkedIn](https://www.linkedin.com/in/anderson-silva/)
 
 **Stacks e Ferramentas:**
-`Java` • `Python` • `JavaScript` • `React` • `MySQL` • `Git` • `Linux` • `Odoo`
+`Java` • `Python` • `JavaScript` • `React` • `MySQL` • `Git` • `Linux`
